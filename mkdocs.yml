@@ -1,0 +1,7 @@
+site_name: Muj web
+nav:
+  - Maturitní otázky: index.md
+  - Zápisky: zapisky.md
+
+theme:
+  name: simple-blog
