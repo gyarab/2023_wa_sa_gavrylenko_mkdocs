@@ -4,7 +4,7 @@ For full information visit [gyarab.org](https://www.gyarab.cz).
 
 ## Programování
 
-![programovani](img/programovani.PNG)
+![programovani](img/programko.PNG)
 
 ## Matika
 
